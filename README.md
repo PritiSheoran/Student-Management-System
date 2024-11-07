@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # student-management-system
 Student management system project in python
 
@@ -36,3 +37,6 @@ Create a table "student_register" under the "student_management" database.
 	email VARCHAR(100) NOT NULL,
 	PRIMARY KEY ( contact )
 );
+=======
+# Student-Management-System
+>>>>>>> 74834f6042f6d0dac3426afd6e2e5f06ef040e6d
