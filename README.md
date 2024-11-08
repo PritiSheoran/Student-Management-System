@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# student-management-system
+# employee-management-system
 Student management system project in python
 
 ****Requirements and Installation****
